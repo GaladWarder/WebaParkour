@@ -21,7 +21,7 @@
       "content": {
         "fog": {
           "fogType": "exp",
-          "args": [[255, 255, 255], 0.01]
+          "args": [[255, 255, 255], 0.001]
         },
         "ssao": {
           "kernelRadius": 16,
@@ -54,7 +54,7 @@
         0,
         0
       ],
-      "start_url": "https://webaverse.github.io/atmospheric-sky/"
+      "start_url": "https://webaverse.github.io/skybox-anime/"
     },
     {
       "position": [
